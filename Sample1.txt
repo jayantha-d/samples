@@ -5,3 +5,4 @@ The disease causes respiratory illness (like the flu) with symptoms such as a co
 HOW IT SPREADS
 Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze. It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth.
 Test1 Jayantha
+Test2 Jayantha
